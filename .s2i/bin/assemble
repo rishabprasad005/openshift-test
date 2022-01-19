@@ -1,0 +1,2 @@
+#!/bin/bash -e
+echo "---> Copying source HTML files to web server root..."
